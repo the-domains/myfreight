@@ -1,0 +1,28 @@
+name: myfreight
+favicon: null
+layout_spectrum: 0.5930569863412529
+typography_spectrum: 0.8814954969566315
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.5404945292975754
+  lightness: 0.46546204620972276
+  saturation: 0.3935054554603994
+  rhythmicContrast: 0.43929884722456336
+purpose: []
